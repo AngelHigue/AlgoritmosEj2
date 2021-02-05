@@ -3,8 +3,7 @@ public class Main {
 
 
         Calculadora calculadora  = new Calculadora();
-
-        calculadora.readFile();
+        calculadora.start();
     
 
     }
